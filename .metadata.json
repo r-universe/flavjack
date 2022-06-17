@@ -1,0 +1,14 @@
+[
+  {
+    "package": "GerminaR",
+    "oncran": true
+  },
+  {
+    "package": "huito",
+    "oncran": true
+  },
+  {
+    "package": "inti",
+    "oncran": true
+  }
+]
