@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GerminaR"]
-	path = GerminaR
-	url = https://github.com/flavjack/germinar
-	shallow = true
-	registered = true
 [submodule "huito"]
 	path = huito
 	url = https://github.com/flavjack/huito
+	shallow = true
+	registered = true
+[submodule "GerminaR"]
+	path = GerminaR
+	url = https://github.com/flavjack/germinar
 	shallow = true
 	registered = true
 [submodule "inti"]

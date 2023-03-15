@@ -1,10 +1,10 @@
 [
   {
-    "package": "GerminaR",
+    "package": "huito",
     "oncran": true
   },
   {
-    "package": "huito",
+    "package": "GerminaR",
     "oncran": true
   },
   {
